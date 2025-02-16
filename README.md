@@ -36,7 +36,10 @@ The program simulates a simple cache system with the following steps:
    ```bash
    git clone https://github.com/orianeluz/Cache-simulation-in-c.git
    
-2.Compile the code:
+2. Compile the code:
    ```bash
      gcc cache_simulation.c -o cache_simulation
 
+3. Run the program:
+   ```bash
+     ./cache_simulation
